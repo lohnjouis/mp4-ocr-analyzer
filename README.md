@@ -55,6 +55,7 @@ DirectML is often the better default for Windows users who want GPU acceleration
 - Uses PySide6 + OpenCV + RapidOCR + ONNX Runtime backend packages
 
 ## Installation
+Download the EXE from the releases page, or, if you want to use CPU/CUDA mode:
 
 From the project directory, run one of:
 
@@ -79,10 +80,14 @@ Use one of:
 - `.\install.ps1 -Profile cpu`
 
 ## Running the App
+Run the .exe file.
 
+Or for using the .py file,
 Use the project venv interpreter:
 
 `.\.venv\Scripts\python.exe main.py`
+
+
 
 ## Usage Workflow
 
