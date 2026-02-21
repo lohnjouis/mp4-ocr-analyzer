@@ -1,4 +1,6 @@
 # MP4 OCR Analyzer
+<img width="1163" height="789" alt="Screenshot 2026-02-21 033307" src="https://github.com/user-attachments/assets/7dbce889-b946-49a6-b326-3ff17f37178a" />
+
 
 Turn a video of a digital gauge into a CSV dataset for Excel, plotting, and analysis.
 
